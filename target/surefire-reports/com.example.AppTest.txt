@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.053 s <<< FAILURE! - in com.example.AppTest
+com.example.AppTest.testFail  Time elapsed: 0.037 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Ð¢ÐµÑ�Ñ‚ Ð¼Ð°Ñ” Ð¿Ñ€Ð¾Ð²Ð°Ð»Ð¸Ñ‚Ð¸Ñ�Ñ�, Ð¾Ñ�ÐºÑ–Ð»ÑŒÐºÐ¸ Ñ€Ñ�Ð´ÐºÐ¸ Ñ€Ñ–Ð·Ð½Ñ–! ==> expected: <Hello World!> but was: <Goodbye World!>
+	at com.example.AppTest.testFail(AppTest.java:19)
+
