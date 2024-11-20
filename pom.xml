@@ -10,6 +10,12 @@
     <packaging>jar</packaging>
     <name>my-app</name>
 
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
     <dependencies>
         <!-- Залежність від JUnit 5 -->
         <dependency>
